@@ -16,6 +16,7 @@ const Categories = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div className="relative max-w-xl mx-auto mt-20">
+          {/*  eslint-disable-next-line @next/next/no-img-element */}
           <img
             className="object-cover rounded-md"
             src="https://plus.unsplash.com/premium_photo-1683436791486-508249532f52?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -29,6 +30,7 @@ const Categories = () => {
 
         <div>
           <div className="relative max-w-xl mx-auto mt-20">
+            {/*  eslint-disable-next-line @next/next/no-img-element */}
             <img
               className="object-cover rounded-md"
               src="https://images.unsplash.com/photo-1590212151175-e58edd96185b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG1vbml0b3J8ZW58MHx8MHx8fDA%3D"
@@ -41,6 +43,7 @@ const Categories = () => {
           </div>
 
           <div className="relative max-w-xl mx-auto mt-8">
+            {/*  eslint-disable-next-line @next/next/no-img-element */}
             <img
               className=" object-cover rounded-md"
               src="https://images.unsplash.com/photo-1598986646512-9330bcc4c0dc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG1vbml0b3J8ZW58MHx8MHx8fDA%3D"
@@ -54,6 +57,7 @@ const Categories = () => {
         </div>
 
         <div className="relative max-w-xl mx-auto mt-20">
+          {/*  eslint-disable-next-line @next/next/no-img-element */}
           <img
             className="object-cover rounded-md"
             src="https://plus.unsplash.com/premium_photo-1665329006421-4e945f91885f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bW9uaXRvcnxlbnwwfHwwfHx8MA%3D%3D"
