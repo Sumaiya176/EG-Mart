@@ -3,7 +3,7 @@ import Image from "next/image";
 const page = async ({ params }: { params: { productId: string } }) => {
   const res = await fetch(`http://localhost:5000/gadget/${params.productId}`);
   const data = await res.json();
-  console.log(data);
+  //console.log(data);
 
   return (
     <div className="mx-12 my-14 md:mx-36">

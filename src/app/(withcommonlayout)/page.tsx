@@ -25,7 +25,7 @@ const page = async () => {
     (prod: FormValues) => String(prod.flashSale).toLowerCase() === "true"
   );
 
-  console.log(flashProducts);
+  //console.log(flashProducts);
   return (
     <div>
       <div className="bg-stone-600 pb-20">
